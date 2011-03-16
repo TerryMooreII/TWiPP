@@ -1,0 +1,25 @@
+#What is it?
+
+Here is a plugin for the Trace Watch application that allows for you to view key Trace Watch data via your iPhone or other mobile device.
+
+The latest release is written with the iWebkit mobile framework and the Tracewatch API.  The latest release also support multiple Trace Watch monitored sites.
+
+Because the current version of the Trace Watch API is very limited some of the advanced features are not yet impliemented.  However according to the developer, they should be possible in the next release.
+
+#Installation Instructions:
+
+Step 1:
+Download the plug-in zip file: 
+
+Step 2:
+Extract the zip file to a temporary directory
+
+Step 3:
+Upload the extract directory name "m" to the root of your Trace Watch installation folder (assuming http://yoursite/twatch)
+
+Step 4:
+Browse to this site via your iPhone:  http://<your website>/<your tracewatch folder>/m
+
+#More Information
+http://motersho.com/blog/index.php/twipp-trace-watch-iphone-plugin/
+
