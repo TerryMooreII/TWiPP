@@ -2,7 +2,8 @@
 
 Here is a plugin for the Trace Watch application that allows for you to view key Trace Watch data via your iPhone or other mobile device.
 
-The latest release is written with the iWebkit mobile framework and the Tracewatch API.  The latest release also support multiple Trace Watch monitored sites.
+The latest release is written with the iWebkit mobile framework and the Tracewatch API.  The latest release also support multiple Trace Watch
+monitored sites.
 
 Because the current version of the Trace Watch API is very limited some of the advanced features are not yet impliemented.  However according to the developer, they should be possible in the next release.
 
